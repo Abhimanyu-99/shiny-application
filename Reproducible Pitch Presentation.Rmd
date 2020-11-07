@@ -1,7 +1,7 @@
 ---
-title: "Reproducible Pitch Presentation - Week 4"
-author: "Mano"
-date: "04/11/2020"
+title: "Week 4 shiny"
+author: "Abhimanyu Arora"
+date: "06/11/2020"
 output: html_document
 ---
 
